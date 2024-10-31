@@ -44,9 +44,10 @@ NOT
 
 XOR
 
-
+![aaa](https://github.com/user-attachments/assets/1743cc6b-a7fe-41a7-b4a3-c4d22d8da12b)
 
 **NUAGES de TENSOR FLOW**
+
 Nuage pour droite : Capture d'écran
 
 Multi-zone : Capture d'écran
