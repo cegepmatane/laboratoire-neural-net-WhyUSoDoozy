@@ -2,15 +2,15 @@
 
 Train your dragon : 
 
-![oruhgwrç](https://github.com/user-attachments/assets/b23f9663-c292-4a19-a95b-a35875ce70ea)
+![oruhgwrç](https://github.com/user-attachments/assets/210e3b8f-7adc-4970-acb5-21b19a666b3b)
 
 Automation : 
 
-![sjdghihds](https://github.com/user-attachments/assets/09c4c722-716c-429f-967c-26d4f405c993)
+![sjdghihds](https://github.com/user-attachments/assets/55de8587-b343-40d3-a63b-a2a69b04d6bd)
 
 Two : 
 
-![hhdshghsd](https://github.com/user-attachments/assets/46100ff9-8044-4ad8-8cab-d46c1a07d831)
+![hhdshghsd](https://github.com/user-attachments/assets/500240b8-e2dd-40c0-8578-6bdb96c3cb59)
 
 **SIMULATEURS de NEURONES**
 
@@ -18,31 +18,29 @@ Simulateur de neurone simple :
 
 ET
 
-![aa](https://github.com/user-attachments/assets/b0a65fd1-4968-4027-ab30-65c060e1c3c5)
+![aa](https://github.com/user-attachments/assets/fa508a4e-0fff-42b3-9e4a-e3ad8b5451a5)
 
-![afda](https://github.com/user-attachments/assets/d2d5f40b-a515-4934-96dc-b40280723ff3)
+![afda](https://github.com/user-attachments/assets/49f2fbf4-f2b4-4a5d-9a77-7350b94b670d)
 
-![gsdg](https://github.com/user-attachments/assets/5581a8ab-1c7c-4793-ac3f-e03bae326ce7)
+![gsdg](https://github.com/user-attachments/assets/90ffe6bc-9931-4591-9ff2-8b43c94d5a8d)
 
-![kasjfajk](https://github.com/user-attachments/assets/52b755b0-e713-4c41-aa2d-49f1b0067917)
+![kasjfajk](https://github.com/user-attachments/assets/b10d78ec-25ca-405a-94bb-e590cea00aac)
 
 OU
 
-![ljfdnhljà](https://github.com/user-attachments/assets/17e2c715-84fa-42d9-ba41-b2f6646cf99a)
+![ljfdnhljà](https://github.com/user-attachments/assets/c9349f6d-2b87-40df-a307-3719e46426a6)
 
-![sojgsjg](https://github.com/user-attachments/assets/defbab7a-a2a5-4b8f-b1fb-5400cef6c49d)
+![sojgsjg](https://github.com/user-attachments/assets/bdc03ede-ca2b-408f-9e9c-adc2a1511926)
 
-![jlgjls](https://github.com/user-attachments/assets/7c45f3f4-308a-46eb-8260-44a549ac5f89)
+![jlgjls](https://github.com/user-attachments/assets/96af80ed-2c16-46bc-afef-031b6472cb3b)
 
-![kshdng](https://github.com/user-attachments/assets/71492976-0f43-4721-8a69-b19f7c76e9b8)
+![kshdng](https://github.com/user-attachments/assets/7e084d3f-be16-41a8-a983-608b264662d7)
 
 NOT
 
-![jfhsg](https://github.com/user-attachments/assets/eb70de26-c72c-4206-bb74-333c83b28c74)
+![jfhsg](https://github.com/user-attachments/assets/86eae21e-693e-4fc7-a7d8-f349931a95c6)
 
-![jnbslk](https://github.com/user-attachments/assets/4fd96191-242a-4760-a6d8-89a553ed32e0)
-
-Simnulateur de perceptron :
+![jnbslk](https://github.com/user-attachments/assets/bc25bd0a-c5b3-4826-af9b-3f0916e248ee)
 
 XOR
 
