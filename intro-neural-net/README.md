@@ -48,5 +48,7 @@ XOR
 
 **NUAGES de TENSOR FLOW**
 Nuage pour droite : Capture d'écran
+
 Multi-zone : Capture d'écran
+
 Contrentrique : Capture d'écran
