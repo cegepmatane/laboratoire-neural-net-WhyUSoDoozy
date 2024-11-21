@@ -2,8 +2,7 @@
 
 **Journal du labo convolutif**  
 
-Indiquer votre choix parmi les projets de départ (effacer les autres): 
-Classification des émotions : https://colab.research.google.com/drive/1dndIeVcxX6rzlycMpH1zDXsoPgbw_ocP#scrollTo=5TRgQqWJAClb  
+Indiquer votre choix parmi les projets de départ (effacer les autres): Classification des émotions : https://colab.research.google.com/drive/1dndIeVcxX6rzlycMpH1zDXsoPgbw_ocP#scrollTo=5TRgQqWJAClb  
 
 Votre colab public : 
 
