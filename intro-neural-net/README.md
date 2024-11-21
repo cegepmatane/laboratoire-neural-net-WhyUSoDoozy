@@ -48,8 +48,8 @@ XOR
 
 **NUAGES de TENSOR FLOW**
 
-Nuage pour droite : Capture d'écran
+Nuage pour droite : ![image](https://github.com/user-attachments/assets/5bfe9bf9-93f4-43d0-bde3-21978662e2f5)
 
-Multi-zone : Capture d'écran
+Multi-zone : ![image](https://github.com/user-attachments/assets/f627ce6d-d13f-4ec7-b373-f06c90b3ea01)
 
-Contrentrique : Capture d'écran
+Contrentrique : ![image](https://github.com/user-attachments/assets/0e00fff9-00c7-4abb-8e3a-7eb3f349b554)
