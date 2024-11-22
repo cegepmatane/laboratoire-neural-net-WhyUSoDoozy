@@ -11,7 +11,9 @@ Votre colab public : https://colab.research.google.com/drive/1cSR1G_5l1Q1kx4odsf
 Votre dessin en format PNG (on doit le voir dans le README) :  ![Dessin drawio](https://github.com/user-attachments/assets/cba8d98b-9760-4939-8400-cf434e181eff)
 
 
-Source du dessin (format xml ou autre) :  [Upload<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
+Source du dessin (format xml ou autre) :  
+
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram name="Page-1" id="iDrFumTZIBl6hLnx7pqj">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,7 +281,7 @@ Source du dessin (format xml ou autre) :  [Upload<mxfile host="app.diagrams.net"
     </mxGraphModel>
   </diagram>
 </mxfile>
-ing Dessin.drawio…]()
+
 
 
 Le dessin doit clarifier et illustrer :   
